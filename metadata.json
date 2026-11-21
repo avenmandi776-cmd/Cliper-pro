@@ -1,0 +1,6 @@
+{
+  "name": "ClipGenius AI",
+  "description": "AI-powered video clipping studio with Gemini highlight detection, multi-language word-by-word captions, live stream clipping, and 9:16 FFmpeg vertical rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
